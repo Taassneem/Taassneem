@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tasneem</h1>
+<h1 align="center">Hi 👋; I'm Tasneem🤞</h1>
 <h3 align="center">A Software Engineer from Egypt</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taassneem&label=Profile%20views&color=0e75b6&style=flat" alt="taassneem" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taassneem?tab=repositories](https://github.com/Taassneem?tab=repositories)
 
@@ -19,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taassneem&show_icons=true&locale=en&layout=compact" alt="taassneem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taassneem&show_icons=true&locale=en" alt="taassneem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taassneem&" alt="taassneem" /></p>
